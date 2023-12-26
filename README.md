@@ -28,11 +28,18 @@ Portugal was the country with the highest booking with 55.86% while the least co
 ## Bookings
 Even though Resort hotel had more request for parking space with 74.10% more than City hotel which had 25.90%, City hotel had more bookings with 65.74% than Resort hotel with 34.26%.
 
+## Market Segment
 Online TA got the most booking with 47.31% while Aviation got the least with 0.20%
 
+
+## Visitors
 Adults were an average of 1.86, Children 0.1 while babies were 0.01 approximately.
 
+## Customer type
+
 Transient customeer type had the most booking with 75.06% while the group type had the least with 0.48%.
+
+## Room types
 
 Customers booked room type A mostly with 75.02% while room type F had the least with 2.53%.
 
