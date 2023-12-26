@@ -8,7 +8,7 @@ This data was cleaned and visualized using Tableau
 
 # Insights
 
-
+  ## City
 
 In City hotel, 27.73% cancelled while in Resort hotel, only 9.2% cancelled.
 
