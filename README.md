@@ -8,42 +8,43 @@ This data was cleaned and visualized using Tableau
 
 # Insights
 
-  ## City
+## City vs. Resort Hotel:
+### Cancellation Rates:
+City hotel experienced a higher cancellation rate at 27.73%, whereas Resort hotel cancellations were lower at 9.2%.
 
-In City hotel, 27.73% cancelled while in Resort hotel, only 9.2% cancelled.
+## Meal Preferences:
+### Booking Preferences by Meal Type:
 
+Bed and breakfast had the highest booking rate, accounting for 78.08% of reservations. In contrast, full board had the lowest booking rate at 0.68%.
 
-## Meal
-Bed and breakfast was booked the most with 78.08%, while full board had the least booking with only 0.68%
+## Parking Requests:
+### Trends in Parking Requests:
 
+Parking space requests surged by 59.2% in 2016 but experienced a decline of 29.97% in 2017.
 
-## Parking space
-There was a 59.2% increase in parking space request in 2016 and a decrease in 2017 with 29.97%
+## Country-wise Bookings:
+### Top Booking Countries:
+Portugal led in bookings with 55.86%, while Germany had the lowest bookings at 8.38%.
 
+## Bookings and Parking Requests:
 
-## Country
-Portugal was the country with the highest booking with 55.86% while the least country was Germany with only 8.38%.
+Despite Resort hotel having 74.10% more parking space requests compared to City hotel's 25.90%, City hotel garnered more bookings at 65.74% against Resort hotel's 34.26%.
 
+## Market Segments:
+### Dominant Booking Sources:
+Online travel agencies (Online TA) were the primary booking source, accounting for 47.31%. Conversely, Aviation contributed the least, with only 0.20%.
 
-## Bookings
-Even though Resort hotel had more request for parking space with 74.10% more than City hotel which had 25.90%, City hotel had more bookings with 65.74% than Resort hotel with 34.26%.
+## Visitor Demographics:
+###Average Number of Guests:
+On average, bookings comprised approximately 1.86 adults, 0.1 children, and 0.01 babies.
 
-## Market Segment
-Online TA got the most booking with 47.31% while Aviation got the least with 0.20%
+## Customer Type Preferences:
+### Preference in Customer Types:
+Transient customer type held the majority of bookings at 75.06%, whereas group-type bookings were the least at 0.48%.
 
-
-## Visitors
-Adults were an average of 1.86, Children 0.1 while babies were 0.01 approximately.
-
-## Customer type
-
-Transient customeer type had the most booking with 75.06% while the group type had the least with 0.48%.
-
-## Room types
-
-Customers booked room type A mostly with 75.02% while room type F had the least with 2.53%.
-
-
+## Room Type Preferences:
+### Popular Room Types:
+Room type A dominated bookings, making up 75.02%, while room type F had the lowest at 2.53%.
 
 
 
