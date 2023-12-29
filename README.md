@@ -1,10 +1,25 @@
 
 
+# Hotel Reservation Analysis
+This analysis typically encompasses various aspects of reservations and guest behavior to understand patterns, preferences, and trends within the hospitality industry.
+
+# Insights from Hotel Reservation Analysis
+
+# City vs. Resort Hotel:
+## Cancellation Rates:
+City hotel experienced a higher cancellation rate at 27.73%, whereas Resort hotel cancellations were lower at 9.2%.
+
+# Meal Preferences:
+
+## Booking Preferences by Meal Type:
+
+Bed and breakfast had the highest booking rate, accounting for 78.08% of reservations. In contrast, full board had the lowest booking rate at 0.68%.
 
 ## Parking Requests:
-### Trends in Parking Requests:
 
+### Trends in Parking Requests:
 Parking space requests surged by 59.2% in 2016 but experienced a decline of 29.97% in 2017.
+
 
 ## Country-wise Bookings:
 ### Top Booking Countries:
