@@ -41,7 +41,7 @@ The surge in 2016 shows a substantial increase in guests requiring parking space
 
 The insight also shows that the hotel's clientele primarily consists of adult guests. Develop family-oriented packages, amenities, or activities to attract and cater to families, promoting the hotel as a suitable destination for family vacations, this will generate more revenue for the hotel.
 
-#Pr0ject link
+#Project link
 
 https://public.tableau.com/app/profile/ebere.agwuna/viz/HotelReservationAnalysis_17018928632550/Dashboard3?publish=yes
 
