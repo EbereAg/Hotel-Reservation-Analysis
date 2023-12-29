@@ -1,21 +1,4 @@
-# Hotel-Reservation-Analysis
-Hotel reservation analysis involves examining data related to hotel bookings, guest reservations, and associated information to derive insights and make informed decisions. 
-It encompasses a range of analyses aimed at understanding booking patterns, customer behaviors, booking rates, revenue and more within the hospitality industry.
-
-# Data Cleaning
-
-This data was cleaned and visualized using Tableau
-
-# Insights
-
-## City vs. Resort Hotel:
-### Cancellation Rates:
-City hotel experienced a higher cancellation rate at 27.73%, whereas Resort hotel cancellations were lower at 9.2%.
-
-## Meal Preferences:
-### Booking Preferences by Meal Type:
-
-Bed and breakfast had the highest booking rate, accounting for 78.08% of reservations. In contrast, full board had the lowest booking rate at 0.68%.
+README.md
 
 ## Parking Requests:
 ### Trends in Parking Requests:
