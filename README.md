@@ -33,8 +33,8 @@ Despite Resort hotel having 74.10% more parking space requests compared to City 
 ### Dominant Booking Sources:
 Online travel agencies (Online TA) were the primary booking source, accounting for 47.31%. while, Aviation contributed the least, with only 0.20%.
 
-## Visitor Demographics:
-###Average Number of Guests:
+## Visitors:
+### Average Number of Guests:
 On average, bookings comprised approximately 1.86 adults, 0.1 children, and 0.01 babies.
 
 ## Customer Type Preferences:
