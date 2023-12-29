@@ -55,7 +55,7 @@ Strengthen partnership with market segment platforms by negotiating enhanced vis
 Breakfast is the most booked meal, perhaps because of its variety, Other meal types can also be adapted to align with guest preferences and flexibility could also be offered in dining options.
 The surge in 2016 shows a substantial increase in guests requiring parking space, this may be  due to specific events or marketing campaigns.Identify these events or promotions and consider leveraging on them to stimulate demand or perhaps even increase hotel booking.
 
-The insight also shows that the hotel's clientele primarily consists of adult guests. Develop family-oriented packages, amenities, or activities to attract and cater to families, promoting the hotel as a suitable destination for family vacations, this will generate more revenuee for the hotel.
+The insight also shows that the hotel's clientele primarily consists of adult guests. Develop family-oriented packages, amenities, or activities to attract and cater to families, promoting the hotel as a suitable destination for family vacations, this will generate more revenue for the hotel.
 
 
 
