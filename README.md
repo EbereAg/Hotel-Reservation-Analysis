@@ -46,7 +46,7 @@ Transient customer type held the majority of bookings at 75.06%, whereas group-t
 ### Popular Room Types:
 Room type A dominated bookings, making up 75.02%, while room type F had the lowest at 2.53%.
 
-#Recommendations
+## Recommendations
 
 Engage with customers post-booking to reinforce their choice and provide incentives to prevent cancellations.
 
